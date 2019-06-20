@@ -13,8 +13,7 @@ Google play用户量达100W+
 3.无广告
 4.新用户购买1年送1年
 
-地址：[Panda Pro](https://www.superpanda.pw/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
+点击这里[PandaPro](https://www.superpanda.pw/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
 )
-
 
 ```
