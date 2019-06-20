@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nicevpn/nicevpn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+Nice VPN （2019）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Provide fast and secureaccess to the Internet
+Panda pro
+超高速稳定的国内VPN
+Google play用户量达100W+
 
-```markdown
-Syntax highlighted code block
+1.能够3台设备同时登录
+2.支持iOS、Android、macOS、Windows使用
+3.无广告
+4.新用户购买1年送1年
+!(https://www.superpanda.pw/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
+)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicevpn/nicevpn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
