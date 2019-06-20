@@ -26,3 +26,9 @@ Provide fast and secureaccess to the Internet(VPN)
 )   
 ### 其他产品
 待定
+
+|名称|:----:|Panda Pro|Express VPN|Nord VPN||
+|优点|:----:|极其稳定、价格便宜、国内体验很好|老牌梯子、稳定、线路多|老牌梯子、线路多||
+|缺点|:----:|数字ID注册|价格贵|容易受网络波动影响||
+|下载地址|:----:|[注册](https://www.superpanda.pw/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
+)   ||||
