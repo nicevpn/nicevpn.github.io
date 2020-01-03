@@ -9,26 +9,78 @@
       logo: /assets/images/logos/pandavpn.png
       url: https://www.pandawish.xyz/r/100029
       description: 最稳定高速的梯子,Youtube支持1080P
+    - title: Steam
+      logo: /assets/images/logos/steam.png
+      url: https://store.steampowered.com/
+      description: G胖还钱  
+    - title: Discord
+      logo: /assets/images/logos/discord.png
+      url: https://discordapp.com/
+      description: 体验极佳的游戏语音          
+      
 
  
                        
 
     
 
-- name: 社区资讯
+- name: 游戏社区
   icon: linecons-doc
-  links: 
+  links:
+   
+    - title: Reddit
+      logo: /assets/images/logos/rediit.png
+      url: https://www.reddit.com/
+      description: 全球最大的在线论坛     
+    - title: Vgtime
+      logo: /assets/images/logos/vgtime.png
+      url: https://www.vgtime.com/
+      description: 国内体验极佳的游戏攻略社区
+    - title: NGA
+      logo: /assets/images/logos/nga.png
+      url: https://bbs.nga.cn/
+      description: 源于山口山时期的玩家论坛
+    - title: 小黑盒
+      logo: /assets/images/logos/xiaoheihe.png
+      url: https://www.xiaoheihe.cn/home
+      description: 游戏百科,全平台游戏交流社区
+    - title: MAX+
+      logo: /assets/images/logos/max.png
+      url: http://www.maxjia.com/maxjia/index/
+      description: 电竞游戏数据分析+社区交流
     
-    - title: 湾区日报
-      logo: /assets/images/logos/wanqu.png
-      url: https://wanqu.co/
-      description: 每日推送精选英文文章
-    - title: Indiehackers
-      logo: /assets/images/logos/indiehackers.png
-      url: https://indiehackers.net/
-      description: 远程创业社区      
+    - title: Liquipedia
+      logo: /assets/images/logos/liquipedia.png
+      url: https://liquipedia.net/
+      description: 全球最专业的电竞数据分析
+    - title: Taptap
+      logo: /assets/images/logos/taptap.png
+      url: https://www.tap.io/
+      description: 国内手机游戏社区                
+             
+ 
+
+                
+ - name: 游戏推荐
+  icon: linecons-money
+  links:     
+
+    - title: metacritic
+      logo: /assets/images/logos/metacritic.png
+      url: https://www.metacritic.com/game
+      description: 全球游戏评分
+
+    - title: IGN
+      logo: /assets/images/logos/ign.png
+      url: https://www.ign.com/ 
+      description: 全球游戏评分媒体
       
-    
+    - title: stadia
+      logo: /assets/images/logos/ign.png
+      url: https://stadia.google.com/ 
+      description: Google旗下的云游戏平台      
+      
+        
             
        
            
@@ -37,6 +89,23 @@
   icon: linecons-money
   links: 
 
+    - title: eshopprices
+      logo: /assets/images/logos/eshopprices.png
+      url: https://eshop-prices.com/
+      description: 全球各区游戏价格对比
+    - title: steamdb
+      logo: /assets/images/logos/steamdb.png
+      url: https://steamdb.info/
+      description: steam游戏价格查询
+    - title: 网易BUFF
+      logo: /assets/images/logos/buff.png
+      url: https://buff.163.com/
+      description: steam饰品交易市场 
+    - title: Greenman
+      logo: /assets/images/logos/greenman.png
+      url: https://www.greenmangaming.com/zh/
+      description: 第三方游戏购买平台                 
+      
     - title: 装备前线
       logo: /assets/images/logos/zfrontier.png
       url: https://www.zfrontier.com/
@@ -49,37 +118,18 @@
       logo: /assets/images/logos/wowdsgn.png
       url: https://wowdsgn.com/
       description: 高端家具设计
+      
             
    
-        
-                 
-      
-
-
-         
-
-
 
 
 - name: 桌面工具 
   icon: linecons-desktop
   links: 
-    - title: StarUML
-      logo: /assets/images/logos/staruml.png
-      url: http://staruml.io/
-      description: Mac下UML建模工具
-    - title: uTools
-      logo: /assets/images/logos/utools.png
-      url: https://u.tools/index.html
-      description: 你的生产力工具集      
-    - title: MacDown
-      logo: /assets/images/logos/macdown.png
-      url: https://www.appannie.com/en/
-      description: Mac开源的Markdown编辑器
     - title: Motrix
       logo: /assets/images/logos/motrix.png
       url: https://motrix.app/
-      description: 开源的多协议下载器
+      description: 开源的多协议下载器,支持磁力链
 
 
 
