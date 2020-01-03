@@ -93,7 +93,22 @@
       url: https://wowdsgn.com/
       description: 高端家具设计
       
+- name: 游戏推荐 
+  icon: linecons-desktop
+  links: 
 
+    - title: IGN
+      logo: /assets/images/logos/ign.png
+      url: https://www.ign.com/
+      description: 全球游戏评分媒体 
+    - title: Metacritic
+      logo: /assets/images/logos/metacritic.png
+      url: https://www.metacritic.com/game
+      description: 权威评分媒体      
+    - title: stadia
+      logo: /assets/images/logos/ign.png
+      url: https://stadia.google.com/
+      description: Google旗下的云游戏平台       
           
       
 
