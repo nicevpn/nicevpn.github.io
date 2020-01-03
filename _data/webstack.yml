@@ -1,0 +1,85 @@
+- name: 常用推荐  
+  icon: linecons-star
+  links: 
+    - title: Google
+      logo: /assets/images/logos/google.png
+      url: https://www.google.com/
+      description: 最好用的搜索引擎
+    - title: Panda
+      logo: /assets/images/logos/pandavpn.png
+      url: https://www.pandawish.xyz/r/100029
+      description: 最稳定高速的梯子,Youtube支持1080P
+
+ 
+                       
+
+    
+
+- name: 社区资讯
+  icon: linecons-doc
+  links: 
+    
+    - title: 湾区日报
+      logo: /assets/images/logos/wanqu.png
+      url: https://wanqu.co/
+      description: 每日推送精选英文文章
+    - title: Indiehackers
+      logo: /assets/images/logos/indiehackers.png
+      url: https://indiehackers.net/
+      description: 远程创业社区      
+      
+    
+            
+       
+           
+      
+- name: 购物指南
+  icon: linecons-money
+  links: 
+
+    - title: 装备前线
+      logo: /assets/images/logos/zfrontier.png
+      url: https://www.zfrontier.com/
+      description: 数码,外设发烧社区  
+    - title: 好物商店
+      logo: /assets/images/logos/coolbuy.png
+      url: https://coolbuy.com/
+      description: 玩物丧志
+    - title: 尖叫设计
+      logo: /assets/images/logos/wowdsgn.png
+      url: https://wowdsgn.com/
+      description: 高端家具设计
+            
+   
+        
+                 
+      
+
+
+         
+
+
+
+
+- name: 桌面工具 
+  icon: linecons-desktop
+  links: 
+    - title: StarUML
+      logo: /assets/images/logos/staruml.png
+      url: http://staruml.io/
+      description: Mac下UML建模工具
+    - title: uTools
+      logo: /assets/images/logos/utools.png
+      url: https://u.tools/index.html
+      description: 你的生产力工具集      
+    - title: MacDown
+      logo: /assets/images/logos/macdown.png
+      url: https://www.appannie.com/en/
+      description: Mac开源的Markdown编辑器
+    - title: Motrix
+      logo: /assets/images/logos/motrix.png
+      url: https://motrix.app/
+      description: 开源的多协议下载器
+
+
+
