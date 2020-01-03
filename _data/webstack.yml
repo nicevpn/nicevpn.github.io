@@ -1,4 +1,4 @@
-- name: 游戏社区
+- name: 常用推荐
   icon: linecons-star
   links:
     - title: Google
@@ -58,14 +58,10 @@
       logo: /assets/images/logos/taptap.png
       url: https://www.tap.io/
       description: 国内手机游戏社区                
-             
- 
-
-                
+            
  - name: 游戏推荐
   icon: linecons-money
   links:     
-
     - title: metacritic
       logo: /assets/images/logos/metacritic.png
       url: https://www.metacritic.com/game
@@ -89,7 +85,6 @@
 - name: 购物指南
   icon: linecons-money
   links: 
-
     - title: eshopprices
       logo: /assets/images/logos/eshopprices.png
       url: https://eshop-prices.com/
@@ -119,11 +114,6 @@
       logo: /assets/images/logos/wowdsgn.png
       url: https://wowdsgn.com/
       description: 高端家具设计
-      
-            
-   
-
-
 - name: 桌面工具 
   icon: linecons-desktop
   links: 
