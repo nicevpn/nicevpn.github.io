@@ -88,10 +88,7 @@
       logo: /assets/images/logos/coolbuy.png
       url: https://coolbuy.com/
       description: 玩物丧志
-    - title: 尖叫设计
-      logo: /assets/images/logos/wowdsgn.png
-      url: https://wowdsgn.com/
-      description: 高端家具设计
+
       
 - name: 游戏推荐 
   icon: linecons-desktop
