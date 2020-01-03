@@ -1,6 +1,8 @@
-- name: 常用推荐
+
+
+- name: 常用推荐  
   icon: linecons-star
-  links:
+  links: 
     - title: Google
       logo: /assets/images/logos/google.png
       url: https://www.google.com/
@@ -16,19 +18,14 @@
     - title: Discord
       logo: /assets/images/logos/discord.png
       url: https://discordapp.com/
-      description: 体验极佳的游戏语音          
-      
-
-
- 
+      description: 体验极佳的游戏语音 
                        
 
     
 
-- name: 游戏社区
+- name: 社区资讯
   icon: linecons-doc
-  links:
-   
+  links: 
     - title: Reddit
       logo: /assets/images/logos/rediit.png
       url: https://www.reddit.com/
@@ -57,27 +54,9 @@
     - title: Taptap
       logo: /assets/images/logos/taptap.png
       url: https://www.tap.io/
-      description: 国内手机游戏社区                
-            
- - name: 游戏推荐
-  icon: linecons-money
-  links:     
-    - title: metacritic
-      logo: /assets/images/logos/metacritic.png
-      url: https://www.metacritic.com/game
-      description: 全球游戏评分
-
-    - title: IGN
-      logo: /assets/images/logos/ign.png
-      url: https://www.ign.com/ 
-      description: 全球游戏评分媒体
+      description: 国内手机游戏社区  
       
-    - title: stadia
-      logo: /assets/images/logos/ign.png
-      url: https://stadia.google.com/ 
-      description: Google旗下的云游戏平台      
-      
-        
+    
             
        
            
@@ -100,8 +79,7 @@
     - title: Greenman
       logo: /assets/images/logos/greenman.png
       url: https://www.greenmangaming.com/zh/
-      description: 第三方游戏购买平台                 
-      
+      description: 第三方游戏购买平台   
     - title: 装备前线
       logo: /assets/images/logos/zfrontier.png
       url: https://www.zfrontier.com/
@@ -114,13 +92,39 @@
       logo: /assets/images/logos/wowdsgn.png
       url: https://wowdsgn.com/
       description: 高端家具设计
+      
+ - name: 游戏推荐
+  icon: linecons-money
+  links:
+    - title: metacritic
+      logo: /assets/images/logos/metacritic.png
+      url: https://www.metacritic.com/game
+      description: 全球游戏评分
+      
+    - title: IGN
+      logo: /assets/images/logos/ign.png
+      url: https://www.ign.com/ 
+      description: 全球游戏评分媒体
+      
+    - title: stadia
+      logo: /assets/images/logos/ign.png
+      url: https://stadia.google.com/ 
+      description: Google旗下的云游戏平台       
+            
+   
+          
+      
+
+
 - name: 桌面工具 
   icon: linecons-desktop
   links: 
+
     - title: Motrix
       logo: /assets/images/logos/motrix.png
       url: https://motrix.app/
-      description: 开源的多协议下载器,支持磁力链
+      description: 开源的多协议下载器
+
 
 
 
