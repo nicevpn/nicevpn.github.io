@@ -22,9 +22,9 @@ title: egametools - 电子游戏工具合集
 keywords: 国内VPN,VPN性价比,游戏导航,游戏攻略收集,开黑必备,电子竞技,主机游戏攻略,switch攻略,Panda VPN,高速VPN
 description: egametools - 电子游戏工具合集。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://toolsoo.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://egametools.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-email: leeoy@tech-os.com
+email: dev.surfshell@gmail.com
 
 # Build settings
 theme: minima
