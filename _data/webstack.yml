@@ -131,6 +131,11 @@
       logo: /assets/images/logos/motrix.png
       url: https://motrix.app/
       description: 开源的多协议下载器
+      
+    - title: Stratz
+      logo: /assets/images/logos/stratz.png
+      url: https://stratz.com/
+      description: Dota2数据分析
    
       
 
