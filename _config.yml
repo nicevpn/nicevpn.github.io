@@ -20,11 +20,11 @@
 
 title: egametools - 电子游戏工具合集
 keywords: 中国VPN,VPN性价比,游戏导航,游戏攻略收集,开黑必备,电子竞技,主机游戏攻略,switch攻略,Panda VPN,高速VPN,Best VPN,Free VPN,what is vpn,VPN下载,wang vpn,蚂蚁 VPN,VPN china
-description: 为中国的游戏玩家提供VPN建议,推荐最高速稳定的翻墙VPN,这里有目前最好的VPN。
+description: 为中国的游戏玩家推荐实用工具,推荐性价比高的VPN, 免费实用的工具推荐
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egametools.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-email: vpnwide@gmail.com
+email: leeoyos@gmail.com
 
 # Build settings
 theme: minima
